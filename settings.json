@@ -1,0 +1,7 @@
+{
+  "logging": {
+    "enabled": true,
+    "level": "INFO",
+    "file": "logs/project.log"
+  }
+}
